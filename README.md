@@ -1,4 +1,8 @@
-<img width="1371" height="767" alt="Dashboard-3" src="https://github.com/user-attachments/assets/4091c3d4-6904-41b8-8536-5bd548611d34" />
+<img width="1375" height="772" alt="Dashboard-1" src="https://github.com/user-attachments/assets/1e7855dc-0cc0-48bd-8800-54c4ed942c55" />
+
+<img width="1369" height="770" alt="Dashboard-2" src="https://github.com/user-attachments/assets/daae6faa-2131-49cb-a8a4-48215da73360" />
+
+<img width="1371" height="767" alt="Dashboard-3" src="https://github.com/user-attachments/assets/4816752e-dbaf-4b6a-884a-2f3c66b12925" />
 
 # Supply Chain Performance Dashboard
 
